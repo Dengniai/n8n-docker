@@ -1,0 +1,14 @@
+# 敏感与本地
+.env
+.cursor/
+
+# 子项目（各自独立仓库，根仓库不跟踪）
+/demandAnalysisAgent/
+/demandAnalysisWorkflow/
+/person/
+
+# 系统与临时
+.DS_Store
+*.log
+tem.md
+workflowtem.md
